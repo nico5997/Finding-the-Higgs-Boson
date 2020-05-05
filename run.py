@@ -6,7 +6,6 @@ from defs import *
 from proj1_helpers import *
 
 
-
 ##############################################################
 print("STARTING")
 '''Data for training shaping'''
